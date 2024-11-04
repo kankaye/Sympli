@@ -1,0 +1,40 @@
+﻿src/Sympli.Api/bin
+src/Sympli.Api/obj
+src/Sympli.Application/bin
+src/Sympli.Application/obj
+src/Sympli.Domain/obj
+src/Sympli.Infrastructure/bin
+src/Sympli.Infrastructure/obj
+src/Sympli.Tests/bin
+src/Sympli.Tests/obj
+src/.vs
+react/node_modules
+
+*.dll
+*.exe
+*.log
+*.pdb
+
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+*.nupkg
+*.snupkg
+
+node_modules/
+
+dist/
+build/
+
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+Thumbs.db         # Windows
+.vscode/          # Visual Studio Code
